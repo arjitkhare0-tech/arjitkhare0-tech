@@ -1,10 +1,5 @@
-
-
-<!--
-**arjitkhare0-tech/arjitkhare0-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas# 💫 About Me:
-## 🚀 About Me<br><br>AI & Data Science student passionate about building intelligent applications using AI, Machine Learning, and Full-Stack Development. Experienced with Python, FastAPI, React, LangChain, RAG, Computer Vision, and modern backend technologies. Currently focused on Generative AI, LLM Engineering, and scalable software systems.<br>
+# 💫 About Me:
+## 🚀 <br><br>AI & Data Science student passionate about building intelligent applications using AI, Machine Learning, and Full-Stack Development. Experienced with Python, FastAPI, React, LangChain, RAG, Computer Vision, and modern backend technologies. Currently focused on Generative AI, LLM Engineering, and scalable software systems.<br>
 
 
 ## 🌐 Socials:
@@ -20,14 +15,4 @@ Here are some ideas# 💫 About Me:
 ---
 [![](https://komarev.com/ghpvc/?username=arjitkhare0-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
