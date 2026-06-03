@@ -1,5 +1,23 @@
-# 💫 About Me:
-## 🚀 <br><br>AI & Data Science student passionate about building intelligent applications using AI, Machine Learning, and Full-Stack Development. Experienced with Python, FastAPI, React, LangChain, RAG, Computer Vision, and modern backend technologies. Currently focused on Generative AI, LLM Engineering, and scalable software systems.<br>
+# 💫 About Me
+
+## 🚀 Hi, I'm Arjit Khare
+
+### AI & Data Science Student | Full Stack Developer | AI Enthusiast
+
+I am an AI & Data Science undergraduate passionate about building intelligent and scalable software solutions. My interests span Artificial Intelligence, Generative AI, Machine Learning, Full-Stack Development, and Backend Engineering. I have hands-on experience with Python, FastAPI, React, Next.js, LangChain, RAG systems, Computer Vision, and modern database technologies.
+
+I enjoy developing real-world AI applications that combine Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Multi-Agent Systems, and Full-Stack technologies. Whether it's building AI-powered assistants, intelligent analytics platforms, or scalable web applications, I am always eager to learn, innovate, and solve meaningful problems.
+
+🌍 Based in Madhya Pradesh, India
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💻 Skilled in Python, C++, JavaScript, React, Next.js, FastAPI, LangChain, LangGraph, CrewAI, SQL, MongoDB, and Machine Learning
+
+🤖 Currently exploring Generative AI, LLM Engineering, RAG Pipelines, Multi-Agent Systems, and AI-powered applications
+
+👥 Open to collaborating on AI, Full-Stack, Backend, and Open Source projects
+
 
 
 ## 🌐 Socials:
